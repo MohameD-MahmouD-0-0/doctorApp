@@ -45,6 +45,7 @@ class OnBrdingCreen extends StatelessWidget {
                         ),
                         child: Text(
                           'Get Started',
+
                           style: TextStyle(fontSize: 16.sp),
                         ),
                       ),
